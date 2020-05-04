@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav-con a{
+    color: aliceblue;
+}
+.nav-con a:hover{
+    color:rgba(256, 122, 100, 1);
+}
+.footer-background{
+    height: 10px;
+    
+}
+.color-icon{
+    color: #27aee2;
+}
+.field-Info{
+   color: rgb(251, 174, 44);
+    font-family: Bitter,Georgia,"Times Roman",Times serif;
+    font-size: 1.2rem;
+}
+.alert{
+    background: red;
+}
+.CommentBlock{
+    background-color: #F6F7F9;
+}
+
+
+
+
+.warrning-msg-text{
+    color: #27aee2;
+    text-align: center;
+
+}
+.heading{
+    font-family: serif;
+    font-weight: bold;
+    color: #005E90;
+    text-decoration: none;
+    text-decoration-style: none;
+    text-transform: none;
+    
+}
+.heading:hover{
+    color: #0090DB;
+}
+
+
